@@ -1,0 +1,248 @@
+Express server listening on port 8888
+[90mGET / [31m500 [90m7ms[0m
+Express server listening on port 8888
+Express server listening on port 8888
+[90mGET / [36m304 [90m3891ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m2768ms - 1.34kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m3077ms - 1.34kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+Express server listening on port 8888
+[90mGET / [36m304 [90m2135ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m1623ms - 1.34kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m1853ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m1821ms - 1.34kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m3ms - 117b[0m
+[90mGET / [32m200 [90m2958ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Express server listening on port 8888
+[90mGET / [36m304 [90m8643ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m7338ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+[90mGET / [36m304 [90m7799ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m0ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET / [36m304 [90m7019ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m0ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+[90mGET / [36m304 [90m6305ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m0ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+[90mGET / [32m200 [90m7955ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m7555ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 117b[0m
+[90mGET / [32m200 [90m7512ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m3ms - 117b[0m
+[90mGET / [32m200 [90m7643ms - 1.19kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m8960ms - 1.19kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m1ms - 117b[0m
+[90mGET / [32m200 [90m8280ms - 1.4kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m6384ms - 1.6kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Express server listening on port 8888
+[90mGET / [32m200 [90m6424ms - 1.95kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m6119ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Express server listening on port 8888
+[90mGET / [32m200 [90m5767ms - 1.93kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Express server listening on port 8888
+undefined
+[90mGET / [32m200 [90m6323ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /js/page.js [32m200 [90m4ms - 161b[0m
+3
+[90mGET /?days=3 [32m200 [90m5563ms - 1.09kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m5438ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [32m200 [90m1ms - 161b[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+12
+[90mGET /?days=12 [32m200 [90m5425ms - 2.13kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m0ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+112
+[90mGET /?days=112 [32m200 [90m5898ms - 14.63kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+365
+[90mGET /?days=365 [32m200 [90m8247ms - 54.98kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+5
+[90mGET /?days=5 [32m200 [90m5700ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m5877ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [32m200 [90m2ms - 161b[0m
+31
+[90mGET /?days=31 [32m200 [90m10374ms - 4.58kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m9221ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m9250ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+18
+[90mGET /?days=18 [32m200 [90m9225ms - 2.66kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m0ms[0m
+undefined
+[90mGET / [32m200 [90m8627ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [36m304 [90m11382ms[0m
+[90mGET /js/page.js [36m304 [90m25ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m26ms[0m
+undefined
+[90mGET / [32m200 [90m9977ms - 1.47kb[0m
+undefined
+[90mGET / [32m200 [90m8866ms - 1.47kb[0m
+undefined
+[90mGET / [36m304 [90m10083ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m7ms - 117b[0m
+[90mGET /js/page.js [32m200 [90m7ms - 161b[0m
+15
+[90mGET /?days=15 [32m200 [90m10370ms - 2.35kb[0m
+15
+[90mGET /?days=15 [32m200 [90m10052ms - 2.35kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m8ms[0m
+undefined
+[90mGET / [32m200 [90m8461ms - 1.58kb[0m
+undefined
+[90mGET / [32m200 [90m6401ms - 1.58kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m9472ms - 1.58kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+8
+[90mGET /?days=8 [32m200 [90m9097ms - 1.72kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+undefined
+[90mGET / [32m200 [90m13414ms - 1.72kb[0m
+undefined
+[90mGET / [32m200 [90m10677ms - 1.72kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+15
+[90mGET /?days=15 [32m200 [90m10315ms - 2.76kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m34ms[0m
+15
+[90mGET /?days=15 [32m200 [90m11740ms - 2.84kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+30
+[90mGET /?days=30 [32m200 [90m8446ms - 3.69kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m9210ms - 1.8kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+10
+[90mGET /?days=10 [32m200 [90m8591ms - 2.07kb[0m
+10
+[90mGET /?days=10 [32m200 [90m7812ms - 2.07kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+15
+[90mGET /?days=15 [32m200 [90m8463ms - 2.84kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /js/page.js [36m304 [90m2ms[0m
+Express server listening on port 8888
+15
+[90mGET /?days=15 [32m200 [90m12024ms - 2.66kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /js/page.js [36m304 [90m2ms[0m
+15
+[90mGET /?days=15 [32m200 [90m7860ms - 2.76kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+15
+[90mGET /?days=15 [32m200 [90m12958ms - 2.27kb[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m10467ms - 1.74kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET /js/page.js [32m200 [90m24ms - 161b[0m
+undefined
+[90mGET / [32m200 [90m12842ms - 1.63kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m2ms[0m
+undefined
+[90mGET / [36m304 [90m11568ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m
+undefined
+[90mGET / [32m200 [90m8429ms - 1.32kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+Express server listening on port 8888
+undefined
+[90mGET / [32m200 [90m11755ms - 1.32kb[0m
+[90mGET /js/page.js [32m200 [90m4ms - 161b[0m
+[90mGET /stylesheets/style.css [32m200 [90m6ms - 117b[0m
+31
+[90mGET /?days=31 [32m200 [90m11849ms - 4.04kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /js/page.js [36m304 [90m2ms[0m
+Express server listening on port 8888
+undefined
+[90mGET / [36m304 [90m7109ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /js/page.js [36m304 [90m2ms[0m
+undefined
+[90mGET / [36m304 [90m6481ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /js/page.js [36m304 [90m1ms[0m
+undefined
+[90mGET / [32m200 [90m6647ms - 1.43kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m3ms - 117b[0m
+[90mGET /js/page.js [32m200 [90m1ms - 161b[0m
+15
+[90mGET /?days=15 [32m200 [90m6665ms - 2.63kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /js/page.js [36m304 [90m0ms[0m

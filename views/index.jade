@@ -1,0 +1,15 @@
+extends layout
+
+block content
+
+	h1 #{title}
+	h2 过去 #{days} 天下载列表
+	form(id='form1',action='/',method='get')
+		input(type='submit', value='Reload with last', id='btn')
+		input(type='text',value='#{days}',id='nod',name='days',style='width:20px;') 
+		label days
+	ul
+		each l in list
+			li #{l.name} -- #{l.time}
+			
+	

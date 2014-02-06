@@ -1,0 +1,57 @@
+2014-01-24 22:39:33 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 22:39:33 - Started 6272
+2014-01-24 22:39:54 - Stopping nasdownloadlist.exe
+2014-01-24 22:39:54 - ProcessKill 6272
+2014-01-24 22:39:54 - Finished nasdownloadlist.exe
+2014-01-24 22:39:56 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 22:39:56 - Started 8764
+2014-01-24 22:40:26 - Stopping nasdownloadlist.exe
+2014-01-24 22:40:26 - ProcessKill 8764
+2014-01-24 22:40:26 - Finished nasdownloadlist.exe
+2014-01-24 22:40:27 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 22:40:27 - Started 9672
+2014-01-24 22:47:36 - Stopping nasdownloadlist.exe
+2014-01-24 22:47:36 - ProcessKill 9672
+2014-01-24 22:47:36 - Finished nasdownloadlist.exe
+2014-01-24 23:03:22 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 23:03:22 - Started 9888
+2014-01-24 23:04:59 - Stopping nasdownloadlist.exe
+2014-01-24 23:04:59 - ProcessKill 9888
+2014-01-24 23:04:59 - Finished nasdownloadlist.exe
+2014-01-24 23:05:14 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 23:05:14 - Started 7584
+2014-01-24 23:16:29 - Stopping nasdownloadlist.exe
+2014-01-24 23:16:29 - ProcessKill 7584
+2014-01-24 23:16:29 - Finished nasdownloadlist.exe
+2014-01-24 23:16:31 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-24 23:16:31 - Started 7740
+2014-01-25 20:42:04 - Stopping nasdownloadlist.exe
+2014-01-25 20:42:04 - ProcessKill 7740
+2014-01-25 20:42:04 - Finished nasdownloadlist.exe
+2014-01-25 20:42:07 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-25 20:42:07 - Started 9396
+2014-01-25 20:44:32 - Stopping nasdownloadlist.exe
+2014-01-25 20:44:32 - ProcessKill 9396
+2014-01-25 20:44:32 - Finished nasdownloadlist.exe
+2014-01-25 20:44:33 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-25 20:44:33 - Started 6268
+2014-01-25 20:48:23 - Stopping nasdownloadlist.exe
+2014-01-25 20:48:23 - ProcessKill 6268
+2014-01-25 20:48:23 - Finished nasdownloadlist.exe
+2014-01-25 23:29:19 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-01-25 23:29:19 - Started 3320
+2014-02-01 04:00:51 - Stopping nasdownloadlist.exe
+2014-02-01 04:00:51 - ProcessKill 3320
+2014-02-01 04:00:51 - Finished nasdownloadlist.exe
+2014-02-01 10:55:15 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-02-01 10:55:15 - Started 2520
+2014-02-06 21:35:15 - Stopping nasdownloadlist.exe
+2014-02-06 21:35:15 - ProcessKill 2520
+2014-02-06 21:35:15 - Finished nasdownloadlist.exe
+2014-02-06 21:35:20 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-02-06 21:35:20 - Started 8396
+2014-02-06 21:50:56 - Stopping nasdownloadlist.exe
+2014-02-06 21:50:56 - ProcessKill 8396
+2014-02-06 21:50:56 - Finished nasdownloadlist.exe
+2014-02-06 21:52:16 - Starting D:\dev\nodejs\node.exe --harmony "C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "d:\dev\episodelist\app.js" -l "NAS download list" -g 0.25 -w 1 -r 3 -a n
+2014-02-06 21:52:16 - Started 9020

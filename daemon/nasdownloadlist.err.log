@@ -1,0 +1,26 @@
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1127:5)
+    at Object.<anonymous> (d:\dev\episodelist\app.js:34:24)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+Error: ENOENT, no such file or directory 'z:\大娘'
+    at Object.fs.readdirSync (fs.js:654:18)
+    at explorer (d:\dev\episodelist\routes\index.js:22:12)
+    at exports.index (d:\dev\episodelist\routes\index.js:53:3)
+    at callbacks (d:\dev\episodelist\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\dev\episodelist\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\dev\episodelist\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\dev\episodelist\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\dev\episodelist\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\dev\episodelist\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.methodOverride [as handle] (d:\dev\episodelist\node_modules\express\node_modules\connect\lib\middleware\methodOverride.js:48:5)
